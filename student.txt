@@ -1,0 +1,4 @@
+Student name: Beau de Wit
+Student number: 648559
+Student class: INFVT1A
+GitHub repository URL: https://github.com/Beaudewit00/Web-Markup-Assesment
