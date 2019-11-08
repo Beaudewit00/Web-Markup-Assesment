@@ -1,14 +1,23 @@
 body
 {
-	
+	background-color: LightBlue;
 }
-header
+#header
 {
-	
+	background-color: LightGreen;
 }
 #navigatie
 {
 	
+}
+ul
+{
+	
+}
+li 
+{
+	display: inline;
+	text-align: center;
 }
 #maincontent
 {
@@ -29,4 +38,8 @@ header
 #contactcontent
 {
 	
+}
+#afzender
+{
+	background-color: white;
 }
